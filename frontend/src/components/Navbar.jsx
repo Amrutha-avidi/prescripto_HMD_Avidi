@@ -36,7 +36,7 @@ const Navbar = () => {
           <li className='py-1'>CONTACT</li>
           <hr className='border-none outline-none h-0.5 bg-primary w-3/5 m-auto hidden' />
         </NavLink>
-        <a href="http://localhost:5174" className=' border-2 px-2 py-1 rounded-2xl' target="_blank" rel="noopener noreferrer">
+        <a href="https://prescripto-hmd-avidi.vercel.app" className=' border-2 px-2 py-1 rounded-2xl' target="_blank" rel="noopener noreferrer">
           Admin Panel
         </a>
       </ul>
